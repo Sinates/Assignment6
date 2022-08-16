@@ -1,0 +1,11 @@
+C:\Users\Ruth\Desktop\ContainerMenu\ContainerMenu\bin\Debug\ContainerMenu.exe.config
+C:\Users\Ruth\Desktop\ContainerMenu\ContainerMenu\bin\Debug\ContainerMenu.exe
+C:\Users\Ruth\Desktop\ContainerMenu\ContainerMenu\bin\Debug\ContainerMenu.pdb
+C:\Users\Ruth\Desktop\ContainerMenu\ContainerMenu\obj\Debug\ContainerMenu.csproj.AssemblyReference.cache
+C:\Users\Ruth\Desktop\ContainerMenu\ContainerMenu\obj\Debug\ContainerMenu.Form1.resources
+C:\Users\Ruth\Desktop\ContainerMenu\ContainerMenu\obj\Debug\ContainerMenu.Form2.resources
+C:\Users\Ruth\Desktop\ContainerMenu\ContainerMenu\obj\Debug\ContainerMenu.Properties.Resources.resources
+C:\Users\Ruth\Desktop\ContainerMenu\ContainerMenu\obj\Debug\ContainerMenu.csproj.GenerateResource.cache
+C:\Users\Ruth\Desktop\ContainerMenu\ContainerMenu\obj\Debug\ContainerMenu.csproj.CoreCompileInputs.cache
+C:\Users\Ruth\Desktop\ContainerMenu\ContainerMenu\obj\Debug\ContainerMenu.exe
+C:\Users\Ruth\Desktop\ContainerMenu\ContainerMenu\obj\Debug\ContainerMenu.pdb
